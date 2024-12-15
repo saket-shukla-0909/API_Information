@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "675d7c17ea68bfe8bb8773cc"
+  },
+  "name": "saket shukla",
+  "email": "saket@gmail.com",
+  "password": "$2b$10$TtE9NjTvo5jhnkFYtmaL3.maWp87mobmczViuur8DQY8nBeHfEMxS",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNha2V0QGdtYWlsLmNvbSIsImlhdCI6MTczNDE4NDk0NywiZXhwIjoxNzM0MjcxMzQ3fQ.vWB3GTdun7AY6IXHcoHRZuH-rRNMKdD-VJbRwKdDRG0",
+  "__v": 0
+}]

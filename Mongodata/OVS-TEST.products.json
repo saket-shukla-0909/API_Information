@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "675d922daa5ab11456d14120"
+  },
+  "vendorid": {
+    "$oid": "675d7c17ea68bfe8bb8773cc"
+  },
+  "name": "Iphone 16pro Max",
+  "price": 180000,
+  "stock": 10,
+  "createdAt": {
+    "$date": "2024-12-14T14:11:57.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T14:11:57.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675da2781665fd7228ec095b"
+  },
+  "vendorid": {
+    "$oid": "675d7c17ea68bfe8bb8773cc"
+  },
+  "name": "macBook Pro latest",
+  "price": 3000000,
+  "stock": 5,
+  "createdAt": {
+    "$date": "2024-12-14T15:21:28.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T15:48:53.765Z"
+  },
+  "__v": 0
+}]

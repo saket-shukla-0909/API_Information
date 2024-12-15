@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "675e2f9b1f41b391cd8575c1"
+  },
+  "productId": {
+    "$oid": "675d922daa5ab11456d14120"
+  },
+  "quantity": 8,
+  "totalprice": 200000,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-12-15T01:23:39.388Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T01:23:39.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e2fae1f41b391cd8575c3"
+  },
+  "productId": {
+    "$oid": "675d922daa5ab11456d14120"
+  },
+  "quantity": 4,
+  "totalprice": 100000,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-12-15T01:23:58.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T01:23:58.059Z"
+  },
+  "__v": 0
+}]
